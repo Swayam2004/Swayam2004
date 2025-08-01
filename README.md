@@ -1,5 +1,9 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. I'm Swayam Sahoo</h1>
-<h3 align="center">Full-Stack Engineer | Edge Computing Specialist | OUTR CSE '27 | SIH 2024 Finalist</h3>
+<h1 align="center">hey! nice to see you. i'm swayam 👋</h1>
+<h3 align="center">
+  
+*full-stack dev | edge computing nerd | OUTR CSE '27 | SIH 2024 finalist*
+
+</h3>
 
 <div align="center">
   <a href="mailto:swayam.sahoo.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -7,26 +11,51 @@
   <a href="https://github.com/Swayam2004"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
 
-### About Me
-Full-stack dev specializing in edge computing and real-time systems. Third-year CSE at OUTR (CGPA 9.61). Key achievements: SIH 2024 Finalist (2nd in hardware) for drone nav system; AI forest fire sim for ISRO Hackathon; geospatial ML air quality platform.
+i build things that _feel_ fast.
 
-Expertise in low-latency tech: GPU sims (1.5M+ pixels, 10x faster); IoT edge (1,000+ points/min).
+currently in 3rd year CSE @ OUTR (’27), CGPA: **9.61**  
+mostly just trying to quietly build systems that work — and sometimes look good while doing it.
 
-Chess peak 1894 (Lichess) sharpens my strategic debugging. Collaborative and detail-oriented—let's build in AI/distributed systems!
+expertise in low-latency tech: gpu sims — forest-fire (1.5M+ pixels, 10x faster); iot edge (1,000+ points/min).
 
-### Current Focus
-- Edge scaling for extreme envs (ROS/LiDAR/GPS drone autonomy).
-- Geospatial AI/ML (CNNs + cellular automata simulations).
+chess, peaked 1894 (Lichess), sharpens my strategic debugging.
 
-### Skills
-- **Languages**: Python, JavaScript, C++, Java, Dart.
-- **Frameworks/Tools**: React/Next.js, Flutter, FastAPI, ROS, Docker, Git, Unix/Linux.
-- **Data/ML**: TensorFlow/Keras, PyTorch, NumPy/Pandas, GDAL/Rasterio.
-- **Hardware/Systems**: Raspberry Pi/ESP8266 IoT, LiDAR/GPS fusion, distributed edge computing.
-- **Other**: DS&A, BM25 search, cellular automata.
+---
 
-### Featured Projects
-- **Forest Fire Sim (ISRO)**: CNN (ResUNet-A) + cellular automata; 84.2% accuracy on SRTM/VIIRS data; GPU 10x speedup for 1.5M+ pixels; Flask/React UI, NLP fusion, Docker. [GitHub]
-- **AirAlert Monitor**: Edge fusion of OpenAQ/Sentinel-5P (1,000+ pts/min); interpolation (IDW/RBF/Kriging); FastAPI/React/SQLAlchemy, Docker. [GitHub]
-- **Research Scraper/Search**: Selenium/BeautifulSoup scraper; BM25 FastAPI engine; anti-detection, PDF conv, Jinja2. [GitHub]
-- **OREL Drone Nav (SIH)**: Raspberry Pi/ROS LiDAR/GPS fusion; 95% reliability at 9k-15k ft; Unix/Linux real-time. [PPT]
+### things i've built (so far)
+
+- **forest fire sim (ISRO BAH)**: CNN (ResUNet-A) + cellular automata; 84.2% accuracy on SRTM/VIIRS data; GPU 10x speedup for 1.5M+ pixels; Flask/React UI, NLP fusion, Docker.
+- **airalert monitor**: edge fusion of OpenAQ/Sentinel-5P (1,000+ pts/min); interpolation (IDW/RBF/Kriging); FastAPI/React/SQLAlchemy, Docker.
+- **research scraper + search-engine**: Selenium/BeautifulSoup scraper; BM25 FastAPI engine; anti-detection, PDF conv, Jinja2.
+- **OREL drone nav (SIH)**: Raspberry Pi/ROS LiDAR/GPS fusion; 95% reliability at 9k-15k ft; Unix/Linux real-time.
+
+---
+
+### systems that feel alive > systems that just work
+
+i like low-latency systems.
+not because it sounds cool — but because i love that feeling when data moves instantly.
+played a lot of chess — maybe that's where the obsession with logic, calm chaos, and fast thinking comes from.
+
+---
+
+### lil more about me
+
+- i make some games sometimes. bad memes. and bad jokes.
+- good at shipping, great at debugging, sleep-deprived by choice
+- quiet offline, very active online 😤
+
+---
+
+### let's build something cool?
+
+if you're into fast systems, clean UIs, edge stuff, or just wanna collab — hit me up.  
+i’m always down for hackathons, late-night builds, or random repo ideas that somehow become real.
+
+<br>
+
+<div align="center">
+
+_"good systems are invisible. great ones feel alive."_
+
+</div>
