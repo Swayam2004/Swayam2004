@@ -29,13 +29,6 @@ i build things that feel fast. low-latency systems, edge pipelines, ML that ship
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Swayam2004&show_icons=true&theme=blackwhite&hide_border=true&hide_title=true" width="48%" />
-<img src="https://streak-stats.demolab.com?user=Swayam2004&theme=dark&background=0D1117&border=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="48%" />
-
-</div>
-
 chess got me to 1894 on Lichess. turns out calm chaos and fast thinking transfer to debugging.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
