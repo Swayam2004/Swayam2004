@@ -22,14 +22,14 @@ i build things that feel fast. low-latency systems, edge pipelines, ML that ship
 
 **things i've shipped**
 
-- `forest-fire-sim` — ResUNet-A + cellular automata wildfire risk prediction, 10x GPU speedup on 1.5M+ pixels
-- `airalert` — edge fusion of OpenAQ + Sentinel-5P air quality data, 1,000+ points/minute
-- `research-scraper` — BM25 search engine over scraped research papers, FastAPI backend
-- `orel` — autonomous drone nav for high-altitude ITBP ops, LiDAR + GPS fusion, SIH'24 finalist
+- `forest-fire-sim`: ResUNet-A + cellular automata wildfire risk prediction, 10x GPU speedup on 1.5M+ pixels
+- `airalert`: edge fusion of OpenAQ + Sentinel-5P air quality data, 1,000+ points/minute
+- `research-scraper`: BM25 search engine over scraped research papers, FastAPI backend
+- `orel`: autonomous drone nav for high-altitude ITBP ops, LiDAR + GPS fusion, SIH'24 finalist
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-chess got me to 1894 on Lichess. turns out calm chaos and fast thinking transfer to debugging.
+FIDE rated 1638 in classical chess. turns out calm chaos and fast thinking transfer to debugging.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
